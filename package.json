@@ -1,9 +1,9 @@
 {
-  "name": "lytix",
+  "name": "bender",
   "version": "0.0.0",
   "private": true,
-  "author": "julia.jacobs@pilytix.com",
-  "description": "A chat automation bot for pilytix",
+  "author": "jjacobs2000@me.com",
+  "description": "A chat automation bot for slack",
   "dependencies": {
     "hubot": "^2.18.0",
     "hubot-bitly": "^1.0.2",
